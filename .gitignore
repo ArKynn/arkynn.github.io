@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Rider auto-generated files
+/.idea/
+# Local cache
+/_site/
+/.jekyll-cache/
+.jekyll-metadata
